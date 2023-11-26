@@ -24,3 +24,11 @@ This project aims to create a Streamlit application that allows users to access 
 
 1. Install MySQL Server and MySQL Workbench
 2. Create a local connection and a database
+
+## Steps involved
+
+1. Create API key and database connections
+2. Extract data from youtube api using google api key and store it in MongoDb
+3. Migration data from MongoDb to a SQL database for efficient querying and analysis
+4. Search and retrieve data from SQL database using different search options
+
