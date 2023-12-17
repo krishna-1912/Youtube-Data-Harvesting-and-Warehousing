@@ -33,3 +33,6 @@ This project aims to create a Streamlit application that allows users to access 
 4. Search and retrieve data from SQL database using different search options
 **Note:** Assumption is youtube_data_harvesting database is already created in MySQL
 
+## Video Recording
+https://github.com/krishna-1912/Youtube-Data-Harvesting-and-Warehousing/blob/main/Youtube%20Data%20Harvesting%20and%20Warehousing-1%20(1).mp4
+https://github.com/krishna-1912/Youtube-Data-Harvesting-and-Warehousing/blob/main/Youtube%20Data%20Harvesting%20and%20Warehousing-1.mp4
